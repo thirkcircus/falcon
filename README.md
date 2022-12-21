@@ -1,8 +1,11 @@
 # Falcon
 
-Chrome extension for flexible full text browsing history search. **Press `f`, then `space` or `tab`, in the omnibar to start searching your previously visited websites**! 
+Chrome extension for flexible full text browsing history search. **Press `q`, then `space` or `tab`, in the omnibar to start searching your previously visited websites**! 
 
-Every time you visit a website in Chrome, Falcon indexes all the text on the page so that the site can be easily found later. Then, for example, if you type `f <tab> mugwort`, Falcon will show the websites you visited containing the text "mugwort"! [Install from the Chrome store here](https://chrome.google.com/webstore/detail/falcon/mmifbbohghecjloeklpbinkjpbplfalb) or [get the CRX file](https://github.com/lengstrom/falcon/releases/tag/0.1.4)! (If you don't feel comfortable with that, look at [Transparent Installation](#transparent-installation)). Programmed by [@andrewilyas](https://github.com/andrewilyas) and [@lengstrom](https://github.com/lengstrom), art by [Lucia Liu](http://lucialiu.me).
+Every time you visit a website in Chrome, Falcon indexes all the text on the page so that the site can be easily found later. Then, for example, if you type `q <tab> mugwort`, Falcon will show the websites you visited containing the text "mugwort"! 
+
+Install via [Transparent Installation](#transparent-installation)). 
+Programmed by [@andrewilyas](https://github.com/andrewilyas) and forked by [@thirkcircus](https://github.com/thirkcircus), art by [Lucia Liu](http://lucialiu.me).
 
 <img src="Falcon.gif" alt="Example Usage" width="880px"/>
 

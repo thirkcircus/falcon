@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Falcon",
-    "short_name":"Falcon",
-    "description": "To activate, type 'f' followed by a tab or space into the Omnibox. Then enter your term and press enter to submit.",
+    "name": "Falcon - Atlassian",
+    "short_name":"Falcon-Atlassian",
+    "description": "To activate, type 'q' followed by a tab or space into the Omnibox. Then enter your term and press enter to submit.",
     "version": "0.2.4",
     "content_scripts": [
         {
@@ -30,7 +30,7 @@
         "48": "assets/48.png",
         "128": "assets/128.png"
     },
-    "omnibox": { "keyword" : "f" },
+    "omnibox": { "keyword" : "q" },
     "options_page": "assets/preferences.html",
     "background": {
         "scripts": ["js/blacklist2.js", "js/lib/chrono.min.js", "js/textprocessing.js", "js/queryparser.js", "js/background.js"]
